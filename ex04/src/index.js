@@ -10,7 +10,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <h1 > Hello, Padawans!</h1>
+        <h1 >Hello, Padawans!</h1>
       </div >
     )
   }
@@ -23,7 +23,7 @@ ReactDOM.render(< App />, document.getElementById('root'));
 
 // src/index.js
 
-import React, { Hello, Padawans } from 'react'; // Change this line
+import 'h1' , { Hello } from 'react'; // Change this line
 import ReactDOM from 'react-dom';
 import './index.css';
 
